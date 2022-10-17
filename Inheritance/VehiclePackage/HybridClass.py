@@ -1,4 +1,4 @@
-# Hybrid Class
+# Hybrid Class 
 from VehiclePackage.CarClass import Car
 
 class Hybrid(Car):
