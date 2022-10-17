@@ -10,5 +10,5 @@ class Hybrid(Car):
         return super().__str__() + ", Battery KVA = " + self.batteryKVA
     
     def __repr__(self):
-        return super().__repr__() + ", Battery KVA: " + str(self.BatteryKVA)
+        return super().__repr__() + ", Battery KVA: " + str(self.batteryKVA)
         

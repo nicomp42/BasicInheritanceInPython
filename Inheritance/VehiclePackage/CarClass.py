@@ -1,6 +1,5 @@
 # Car Class
 from VehiclePackage.VehicleClass import Vehicle
-from _json import make_encoder
 
 class Car(Vehicle):
     def __init__(self, type, make, model):
