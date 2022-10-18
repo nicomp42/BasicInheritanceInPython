@@ -5,4 +5,4 @@ if __name__ == "__main__":
 
     myCar = Car("Car", "Chevrolet", "Corvette")
     print (myCar.__str__())
-    print("I like"+myCar.__str__()))
+    print("I like cars")
