@@ -5,3 +5,6 @@ if __name__ == "__main__":
 
     myCar = Car("Car", "Chevrolet", "Corvette")
     print (myCar.__str__())
+    
+    
+print("test.1234")
